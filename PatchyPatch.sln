@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatchyPatch", "PatchyPatch.csproj", "{D3F10551-404B-4E32-93C6-5EA105EB9FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F10551-404B-4E32-93C6-5EA105EB9FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F10551-404B-4E32-93C6-5EA105EB9FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F10551-404B-4E32-93C6-5EA105EB9FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F10551-404B-4E32-93C6-5EA105EB9FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF84387-FA11-4613-AC9E-E64B886CFA3C}
+	EndGlobalSection
+EndGlobal
